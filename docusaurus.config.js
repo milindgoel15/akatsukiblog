@@ -9,7 +9,7 @@ const config = {
   title: 'plus',
   tagline: 'Potatoes are cool',
   url: 'https://protonplus-org.github.io',
-  baseUrl: '/plusblog',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favi.ico',
