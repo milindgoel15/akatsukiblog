@@ -99,7 +99,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AKATSUKI.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://t.me/YetAnotherAkatsuki">AKATSUKI.<a/><br><span style="color:'FF3509';padding-top:1em"></span>`,
       },  
       prism: {
         theme: lightCodeTheme,
