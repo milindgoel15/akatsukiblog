@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'plus',
   tagline: 'Potatoes are cool',
-  url: 'https://protonplus-org.github.io',
+  url: 'https://blog.protonplus.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
