@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'plus',
+  title: 'Yet Another Blog',
   tagline: 'Potatoes are cool',
   url: 'https://blog.protonplus.xyz',
   baseUrl: '/',
