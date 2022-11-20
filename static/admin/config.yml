@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: main 
+  branch: MAIN 
   repo: Iamkillua/plusblog-1
 
 # These lines should *not* be indented
