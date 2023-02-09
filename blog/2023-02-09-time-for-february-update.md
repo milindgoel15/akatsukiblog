@@ -3,7 +3,6 @@ title: Time for February Update
 slug: protonplus-february-update
 tags:
   - protonplus
-  - ""
 authors:
   - name: Wally West
     title: Dark Lead
@@ -13,6 +12,10 @@ authors:
     title: Side Character
     url: https://t.me/Iam_PAIN
     imageUrl: https://avatars.githubusercontent.com/u/53990049?v=4
+  - name: AYUSH
+    title: Future CEO
+    url: https://t.me/baka_hokage
+    imageUrl: https://avatars.githubusercontent.com/u/100789392?v=4  
 ---
 ![protonplus-february-update](/img/frame-92.png)
 
