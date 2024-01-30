@@ -50,8 +50,8 @@ const config = {
       navbar: {
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logodark.svg',
-          srcDark: 'img/logolight.svg',
+          src: 'img/logolight.svg',
+          srcDark: 'img/logodark.svg',
         },
         items: [
         ],
