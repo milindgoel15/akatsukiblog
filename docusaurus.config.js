@@ -90,7 +90,7 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'https:genesisos.dev',
+                href: 'https://genesisos.dev',
               },
               {
                 label: 'GitHub',
