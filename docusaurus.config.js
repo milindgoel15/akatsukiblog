@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Yet Another Blog',
-  tagline: 'Potatoes are cool',
-  url: 'https://blog.protonplus.xyz',
+  title: 'SukiBlog',
+  tagline: 'Rising from thr Dawn',
+  url: 'https://blog.genesisos.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'protonplus-org', // Usually your GitHub org/user name.
-  projectName: 'plusblog', // Usually your repo name.
+  organizationName: 'Akatsuki', // Usually your GitHub org/user name.
+  projectName: 'SukiBlog', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -68,7 +68,7 @@ const config = {
               },
               {
                 label: 'Donate',
-                href: 'https://t.me/YetAnotherAkatsuki/7',
+                href: 'https://t.me/AkatsukiProjects/9',
               },
             ],
           },
@@ -77,11 +77,11 @@ const config = {
             items: [
               {
                 label: 'Telegram',
-                href: 'https://t.me/protonpluschat',
+                href: 'https://t.me/GenesisOSChat',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/helloprotonplus',
+                href: 'https://twitter.com/TheGenesisOS',
               },
             ],
           },
@@ -90,16 +90,16 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'https:protonplus.xyz',
+                href: 'https:genesisos.dev',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/protonplus-org',
+                href: 'https://github.com/GenesisOS',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://t.me/YetAnotherAkatsuki">AKATSUKI.<a/><br><span style="color:'FF3509';padding-top:1em"></span>`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://t.me/AkatsukiProjects">AKATSUKI.<a/><br><span style="color:'FF3509';padding-top:1em"></span>`,
       },  
       prism: {
         theme: lightCodeTheme,
