@@ -27,6 +27,8 @@ Hola Amigos! It is time for New Year, New Name, New Beginnings. Yes we are a lit
 <!-- truncate -->
 **GenesisOS** is born out of the flames of the Burning Enthusiasm of the Successful **ProtonPlus**. While our main focus is on delivering a good experience both functionally and visually, we are aiming to be more than functionally minimalist and going beyond ordinary.
 
+[Checkout Full Feature List↗](https://github.com/GOS-Devices/ota/blob/utopia/source_changelog/source_changelog.txt)
+
 **GenesisOS** builds will start rolling out over upcoming weeks for all the devices on our current roster of Official Devices.
 
 [Checkout Our Official Device Roster↗](https://www.genesisos.dev/devices)
