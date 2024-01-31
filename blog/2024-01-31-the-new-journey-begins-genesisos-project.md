@@ -25,7 +25,7 @@ authors:
 Hola Amigos! It is time for New Year, New Name, New Beginnings. Yes we are a little late for that and apologies in advance for making everyone wait so long.
 
 <!-- truncate -->
-GenesisOS** is born out of the flames of the Burning Enthusiasm of the Successful **ProtonPlus**. While our main focus is on delivering a good experience both functionally and visually, we are aiming to be more than functionally minimalist and going beyond ordinary.
+**GenesisOS** is born out of the flames of the Burning Enthusiasm of the Successful **ProtonPlus**. While our main focus is on delivering a good experience both functionally and visually, we are aiming to be more than functionally minimalist and going beyond ordinary.
 
 **GenesisOS** builds will start rolling out over upcoming weeks for all the devices on our current roster of Official Devices.
 
