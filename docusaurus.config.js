@@ -64,7 +64,7 @@ const config = {
             items: [
               {
                 label: 'Apply Maintainership',
-                href: 'https://forms.gle/k16DxWGm3QHNwi8EA',
+                href: 'https://genesisos.dev/joinus',
               },
               {
                 label: 'Donate',
