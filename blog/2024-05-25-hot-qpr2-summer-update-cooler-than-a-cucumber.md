@@ -5,7 +5,6 @@ tags:
   - genesisos
   - qpr2
   - may
-  - ""
 authors:
   - name: Pain
     title: Side Character
